@@ -72,3 +72,6 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# MCP Server dependencies
+Plugins/UnrealOpenCode/Resources/MCPServer/node_modules/
